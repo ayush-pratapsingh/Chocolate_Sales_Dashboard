@@ -1,3 +1,3 @@
 # Chocolate_Sales_Dashboard
 
-![Dashboard preview] (D:\D Drive\1. Data Analytics\0. Data Analysis - Tools\1. MS Excel)
+![Excel_Dashboard](https://github.com/ayush-pratapsingh/Chocolate_Sales_Dashboard/assets/161426779/dc003481-f32d-4529-ab24-0a1775897008)
